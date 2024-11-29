@@ -5,7 +5,7 @@ WIP
 ## Usage
 
 ```js
-import { subset } from 'klippa';
+import { subset } from '@refont/klippa';
 import { readFileSync, writeFileSync } from "fs";
 
 const input = readFileSync("font.ttf");
