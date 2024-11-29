@@ -1,0 +1,26 @@
+{
+  "name": "@refont/klippa-darwin-x64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "klippa.darwin-x64.node",
+  "files": [
+    "klippa.darwin-x64.node"
+  ],
+  "keywords": [
+    "klippa"
+  ],
+  "author": "junmer",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junmer/klippa.git"
+  }
+}
