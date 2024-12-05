@@ -6,7 +6,7 @@ WIP
 
 ```js
 import { subset } from '@refont/klippa';
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync } from "node:fs";
 
 const input = readFileSync("font.ttf");
 const output = subset(input, { text: "abc" });
