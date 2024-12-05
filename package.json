@@ -1,6 +1,6 @@
 {
   "name": "@refont/klippa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A high-performance font subset toolkit.",
   "main": "index.js",
   "types": "index.d.ts",
