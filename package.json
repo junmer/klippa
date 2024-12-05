@@ -1,6 +1,7 @@
 {
   "name": "@refont/klippa",
   "version": "0.0.2",
+  "description": "A high-performance font subset toolkit.",
   "main": "index.js",
   "types": "index.d.ts",
   "packageManager": "yarn@1.22.22",
@@ -24,6 +25,8 @@
     "url": "git+https://github.com/junmer/klippa.git"
   },
   "keywords": [
+    "font",
+    "subset",
     "klippa"
   ],
   "author": "junmer",
